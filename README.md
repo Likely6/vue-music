@@ -1,21 +1,14 @@
 # vue-music
 
-> 音乐播放器
+>音乐播放器。是基于vue-cli的webpack模板,使用vue-router、vuex、vue、axios开发的移动端音乐播放器
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 安装依赖
+npm install
+# 自动打开本地服务器运行
+npm run dev
+# 打包
+npm run build
+```
